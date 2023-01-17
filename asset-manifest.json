@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/react-fitness/static/css/main.25cba019.css",
-    "main.js": "/react-fitness/static/js/main.53116ee4.js",
-    "static/media/banner.png": "/react-fitness/static/media/banner.5209b5e92a864ca0c615.png",
+    "main.css": "/react-fitness/static/css/main.df092c54.css",
+    "main.js": "/react-fitness/static/js/main.1c7f7295.js",
     "static/media/gym.png": "/react-fitness/static/media/gym.6e701417c428e2fbc267.png",
     "index.html": "/react-fitness/index.html",
-    "main.25cba019.css.map": "/react-fitness/static/css/main.25cba019.css.map",
-    "main.53116ee4.js.map": "/react-fitness/static/js/main.53116ee4.js.map"
+    "main.df092c54.css.map": "/react-fitness/static/css/main.df092c54.css.map",
+    "main.1c7f7295.js.map": "/react-fitness/static/js/main.1c7f7295.js.map"
   },
   "entrypoints": [
-    "static/css/main.25cba019.css",
-    "static/js/main.53116ee4.js"
+    "static/css/main.df092c54.css",
+    "static/js/main.1c7f7295.js"
   ]
 }
